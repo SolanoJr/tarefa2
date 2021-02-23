@@ -1,0 +1,42 @@
+
+body {
+    display: flex;
+    justify-content: center;
+
+    background: linear-gradient(#3c2a3a,black);
+    background-attachment: fixed;
+}
+
+svg {
+    cursor: default;
+    user-select: none;    
+}
+
+.obj {
+    transition: 0.2s all;
+    cursor: pointer;
+}
+
+.state_ok {
+    filter: brightness(110%) drop-shadow(0 0 5px #6aff73);
+}
+
+.state_focus {
+    filter: brightness(100%) drop-shadow(0 0 2px #98fde4);
+}
+
+.state_selected {
+    animation: anim_piscando 0.3s linear infinite alternate;
+}
+
+@keyframes anim_piscando {
+    0% {
+        opacity: 1;
+        filter: brightness(120%) contrast(120%) drop-shadow(0 0 3px #ff8a5c);
+    }
+
+    100% {
+        opacity: 0.5;
+        filter: brightness(120%) contrast(140%) drop-shadow(0 0 3px #98fde4);
+    }    
+}

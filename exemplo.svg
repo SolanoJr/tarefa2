@@ -1,0 +1,24 @@
+<svg id="svg8" width="317.5mm" height="201.26mm" version="1.1" viewBox="0 0 317.5 201.26" xmlns="http://www.w3.org/2000/svg">
+ <rect id="rect140" x=".078" y=".077999" width="317.34" height="201.11" fill="#fbefcc" stroke="#000" stroke-linejoin="bevel" stroke-opacity=".53735" stroke-width=".26458"/>
+ <rect id="rect12" x="18.39" y="42.752" width="170.92" height="103.64" fill="#bccad6" stroke="#000" stroke-linejoin="bevel" stroke-opacity=".53735" stroke-width=".26458"/>
+ <g id="A" transform="matrix(.57678 0 0 .57605 42.807 18.366)" stroke-width=".45901" ss_foco="1">
+  <rect id="rect14" x="-31.75" y="52.917" width="63.5" height="63.5" fill="#f1e3dd" stroke="#000" stroke-linejoin="bevel" stroke-opacity=".53735"/>
+  <text id="text33" x="-7.4845409" y="92.489876" font-family="Ubuntu" font-size="22.578px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan31" x="-7.4845409" y="92.489876" stroke-width=".45901">A</tspan></text>
+ </g>
+ <g id="B" transform="matrix(.57678 0 0 .57605 42.807 18.366)" stroke-width=".45901" ss_foco="2">
+  <rect id="rect14-3" x="179.92" y="158.75" width="63.5" height="52.917" fill="#f1e3dd" stroke="#000" stroke-linejoin="bevel" stroke-opacity=".53735"/>
+  <text id="text37" x="204.0128" y="193.04283" font-family="Ubuntu" font-size="22.578px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan35" x="204.0128" y="193.04283" stroke-width=".45901">B</tspan></text>
+ </g>
+ <g id="C" transform="matrix(.57678 0 0 .57605 42.807 18.366)" stroke-width=".45901">
+  <rect id="rect39" x="-42.333" y="232.83" width="296.33" height="52.917" fill="#f1e3dd" stroke="#000" stroke-linejoin="bevel" stroke-opacity=".53735"/>
+  <text id="text43" x="98.461685" y="267.12616" font-family="Ubuntu" font-size="22.578px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan41" x="98.461685" y="267.12616" stroke-width=".45901">C</tspan></text>
+ </g>
+ <g id="E" transform="matrix(.57678 0 0 .57605 42.807 18.366)" stroke-width=".45901">
+  <rect id="rect60-6" x="349.25" y="42.333" width="74.083" height="243.42" fill="#f4a688" stroke="#000" stroke-linejoin="bevel" stroke-opacity=".53735"/>
+  <text id="text109" x="379.29254" y="171.86488" font-family="Ubuntu" font-size="22.578px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan107" x="379.29254" y="171.86488" stroke-width=".45901">E</tspan></text>
+ </g>
+ <g id="D" transform="matrix(.57678 0 0 .57605 42.807 18.366)" stroke-width=".45901">
+  <rect id="rect60" x="264.58" y="42.333" width="74.083" height="243.42" fill="#f9ccac" stroke="#000" stroke-linejoin="bevel" stroke-opacity=".53735"/>
+  <text id="text123" x="293.25995" y="171.87616" font-family="Ubuntu" font-size="22.578px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan id="tspan121" x="293.25995" y="171.87616" stroke-width=".45901">D</tspan></text>
+ </g>
+</svg>
